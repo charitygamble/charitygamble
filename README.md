@@ -5,9 +5,9 @@
 Welcome to my GitHub profile! I am a front-end web developer who loves to create responsive, accessible websites. While my main focus is using the [11ty](https://11ty.dev) static site generator, I am also well-versed in the use of self-hosted [WordPress](https://wordpress.org). I am always looking to learn new technologies.
 
 ## 🛠️ **Technologies & Tools**
-![HTML5](https://img.shields.io/badge/-HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white)
-![WORDPRESS](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 <!--
 **charitygamble/charitygamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
