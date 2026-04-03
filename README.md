@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I am a front-end web developer who loves to create
 - [Charity Gamble](https://charitygamble.dev)
 - [amy kaybach](https://amykaybach.com)
 
-## 📈 **Github Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charitygamble&show_icons=true&theme=radical)
-
 ## 📥 **Let's Connect**
 [LinkedIn](https://linkedin.com/in/charitygamble) | [X](https://x.com/cgambledev) | [Instagram](https://instagram.com/charitygamble.dev) | [Portfolio](https://charitygamble.dev)
 <!--
