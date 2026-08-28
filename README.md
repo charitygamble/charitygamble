@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a front-end web developer who loves to create
 - [amy kaybach](https://amykaybach.com)
 
 ## 📥 **Let's Connect**
-[LinkedIn](https://linkedin.com/in/charitygamble) | [X](https://x.com/cgambledev) | [Instagram](https://instagram.com/charitygamble.dev) | [Portfolio](https://charitygamble.dev)
+[LinkedIn](https://linkedin.com/in/charitygamble) | [X](https://x.com/cgambledev) | [Bluesky](https://bsky.app/profile/cgambledev.bsky.social)| [Portfolio](https://charitygamble.dev)
 <!--
 **charitygamble/charitygamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
